@@ -1,0 +1,18 @@
+{
+  "name": "bacend_learning",
+  "version": "1.0.0",
+  "description": "this is my first node app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "kaif"
+  ],
+  "author": "kaif ansari",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
